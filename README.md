@@ -140,10 +140,11 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
 **Example of a Vague Prompt**:
-"Tell me about technology."
+Tell me about technology.
 
 **Improved Prompt**:
- "Provide a brief overview of how artificial intelligence is transforming the healthcare industry, including examples of its applications."
+ Provide a brief overview of how artificial intelligence is transforming the healthcare industry, including examples of its applications."
+ 
 
 **Why the Improved Prompt is More Effective?**
  - **More Specific**:Instead of the broad topic "technology," it focuses on artificial intelligence in healthcare.
